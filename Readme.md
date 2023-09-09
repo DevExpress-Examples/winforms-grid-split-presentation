@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Split content into two resizeable data grids (Split Presentation)
+# WinForms Data Grid - Split the grid into two resizeable data grids (Split Presentation)
 
 This example demonstrates how to split the grid into two independently scrollable vertical panes.
 

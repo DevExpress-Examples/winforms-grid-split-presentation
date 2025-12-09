@@ -103,10 +103,10 @@ Namespace CreateGridSplitContainer
 				privateName = value
 			End Set
 		End Property
-		Public Sub New(ByVal id As Integer, ByVal name As String, ByVal country As String)
-			ID = id
-			Name = name
-			Country = country
+		Public Sub New(ByVal idParam As Integer, ByVal nameParam As String, ByVal countryParam As String)
+			ID = idParam
+			Name = nameParam
+			Country = countryParam
 		End Sub
 	End Class
 End Namespace
